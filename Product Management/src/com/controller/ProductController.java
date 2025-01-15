@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.Scanner;
 
 import com.model.Product;
-import com.mysql.cj.protocol.Resultset;
+//import com.mysql.cj.protocol.Resultset;
 
 public class ProductController {
 
